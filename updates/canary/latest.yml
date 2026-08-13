@@ -1,0 +1,8 @@
+version: "0.5.1-ALPHA-REL-canary.53"
+files:
+  - url: "https://github.com/ButterClient/launcher-releases/releases/download/v0.5.1-ALPHA-REL-canary.53/ButterClientLauncher-0.5.1-ALPHA-REL-canary.53-win-x64.exe"
+    sha512: "KkEFaTx75/YhX1zbFl56gkNx2D6kk1Uvg7YorspJQn7IMvD1El0QsUqOsx1l7d/TmxEHUp9WBTsRUar7E53sGQ=="
+    size: 100435657
+path: "https://github.com/ButterClient/launcher-releases/releases/download/v0.5.1-ALPHA-REL-canary.53/ButterClientLauncher-0.5.1-ALPHA-REL-canary.53-win-x64.exe"
+sha512: "KkEFaTx75/YhX1zbFl56gkNx2D6kk1Uvg7YorspJQn7IMvD1El0QsUqOsx1l7d/TmxEHUp9WBTsRUar7E53sGQ=="
+releaseDate: "2026-08-13T16:42:39.969Z"
