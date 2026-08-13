@@ -1,8 +1,8 @@
-version: "0.7.66"
+version: "0.7.68"
 files:
-  - url: "https://github.com/ButterClient/launcher-releases/releases/download/0.7.66/ButterClientLauncher-0.7.66-linux-x86_64.AppImage"
-    sha512: "8JdOxSvUWiIAWay7N/Ych+ABiaRdvNOnU9FA3OCiRxmyN3eByfy/hNNY4sNz2V3I4ldTr5WYbaMA1YLhZLBuiw=="
-    size: 129701329
-path: "https://github.com/ButterClient/launcher-releases/releases/download/0.7.66/ButterClientLauncher-0.7.66-linux-x86_64.AppImage"
-sha512: "8JdOxSvUWiIAWay7N/Ych+ABiaRdvNOnU9FA3OCiRxmyN3eByfy/hNNY4sNz2V3I4ldTr5WYbaMA1YLhZLBuiw=="
-releaseDate: "2026-08-13T18:42:07.072Z"
+  - url: "https://github.com/ButterClient/launcher-releases/releases/download/0.7.68/ButterClientLauncher-0.7.68-linux-x86_64.AppImage"
+    sha512: "n4cM/nas441Mn3/fJCzZqn4Y1BSjrj5+j9Tg4IQYXd86uCPNexoYAvRixWbMkUdz+y8VTIl1YsSj2J3rxdU91g=="
+    size: 129701390
+path: "https://github.com/ButterClient/launcher-releases/releases/download/0.7.68/ButterClientLauncher-0.7.68-linux-x86_64.AppImage"
+sha512: "n4cM/nas441Mn3/fJCzZqn4Y1BSjrj5+j9Tg4IQYXd86uCPNexoYAvRixWbMkUdz+y8VTIl1YsSj2J3rxdU91g=="
+releaseDate: "2026-08-13T21:05:14.506Z"
