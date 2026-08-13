@@ -1,8 +1,8 @@
-version: "0.7.3"
+version: "0.7.4"
 files:
-  - url: "https://github.com/ButterClient/launcher-releases/releases/download/v0.7.3/ButterClientLauncher-0.7.3-win-x64.exe"
-    sha512: "LVrJY3sCOhmM7LNrlpjwymkzQUTSV1Z2sS8+Aj8KCLgb4EFkzTQEKUs7ry4DgFBPrN3vbPnUqGdQJuaqk3UCfw=="
-    size: 100436592
-path: "https://github.com/ButterClient/launcher-releases/releases/download/v0.7.3/ButterClientLauncher-0.7.3-win-x64.exe"
-sha512: "LVrJY3sCOhmM7LNrlpjwymkzQUTSV1Z2sS8+Aj8KCLgb4EFkzTQEKUs7ry4DgFBPrN3vbPnUqGdQJuaqk3UCfw=="
-releaseDate: "2026-08-13T17:12:23.739Z"
+  - url: "https://github.com/ButterClient/launcher-releases/releases/download/v0.7.4/ButterClientLauncher-0.7.4-win-x64.exe"
+    sha512: "PWIXRn4DSjW6Sf+lQpdUAeVNjNM6AKVJEn8TIMy7lU8QYC4xZMZjLpCAIqQj3FMRXwoh/lP/VV8ahuS16AMCfA=="
+    size: 100436494
+path: "https://github.com/ButterClient/launcher-releases/releases/download/v0.7.4/ButterClientLauncher-0.7.4-win-x64.exe"
+sha512: "PWIXRn4DSjW6Sf+lQpdUAeVNjNM6AKVJEn8TIMy7lU8QYC4xZMZjLpCAIqQj3FMRXwoh/lP/VV8ahuS16AMCfA=="
+releaseDate: "2026-08-13T17:28:01.800Z"
