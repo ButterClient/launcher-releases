@@ -1,8 +1,8 @@
-version: "0.5.1-ALPHA-REL-canary.53"
+version: "0.6.2-canary.55"
 files:
-  - url: "https://github.com/ButterClient/launcher-releases/releases/download/v0.5.1-ALPHA-REL-canary.53/ButterClientLauncher-0.5.1-ALPHA-REL-canary.53-linux-x86_64.AppImage"
-    sha512: "xZRZHaiy6y3kOHDuGHJkJ1ylEUfCA4UpcYLAvigywCHBOWIpPyvW5h+J8ljo1YGyDo9+aZkRTb9VkrxvY/YJmw=="
-    size: 129701392
-path: "https://github.com/ButterClient/launcher-releases/releases/download/v0.5.1-ALPHA-REL-canary.53/ButterClientLauncher-0.5.1-ALPHA-REL-canary.53-linux-x86_64.AppImage"
-sha512: "xZRZHaiy6y3kOHDuGHJkJ1ylEUfCA4UpcYLAvigywCHBOWIpPyvW5h+J8ljo1YGyDo9+aZkRTb9VkrxvY/YJmw=="
-releaseDate: "2026-08-13T16:40:07.648Z"
+  - url: "https://github.com/ButterClient/launcher-releases/releases/download/v0.6.2-canary.55/ButterClientLauncher-0.6.2-canary.55-linux-x86_64.AppImage"
+    sha512: "Zt48NH57PXQW+bwScQdUrevUrYsE5V7rBWLv2zP6g/u+32jGji3oCHck6+u8rQqxB0TyZILMibU+U0cPk+C3Eg=="
+    size: 129701353
+path: "https://github.com/ButterClient/launcher-releases/releases/download/v0.6.2-canary.55/ButterClientLauncher-0.6.2-canary.55-linux-x86_64.AppImage"
+sha512: "Zt48NH57PXQW+bwScQdUrevUrYsE5V7rBWLv2zP6g/u+32jGji3oCHck6+u8rQqxB0TyZILMibU+U0cPk+C3Eg=="
+releaseDate: "2026-08-13T16:51:59.228Z"
