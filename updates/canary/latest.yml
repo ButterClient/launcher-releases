@@ -1,8 +1,8 @@
-version: "0.6.2-canary.55"
+version: "0.7.65"
 files:
-  - url: "https://github.com/ButterClient/launcher-releases/releases/download/v0.6.2-canary.55/ButterClientLauncher-0.6.2-canary.55-win-x64.exe"
-    sha512: "CgfaMArf37jPXFLAV/LCfm0VOVc9h86sF8qArbc2Z/2KE0aMwXU6GzkXQ/cCYB42HzuA9EiFZaZ6NWEsZTF3UQ=="
-    size: 100438247
-path: "https://github.com/ButterClient/launcher-releases/releases/download/v0.6.2-canary.55/ButterClientLauncher-0.6.2-canary.55-win-x64.exe"
-sha512: "CgfaMArf37jPXFLAV/LCfm0VOVc9h86sF8qArbc2Z/2KE0aMwXU6GzkXQ/cCYB42HzuA9EiFZaZ6NWEsZTF3UQ=="
-releaseDate: "2026-08-13T16:54:21.006Z"
+  - url: "https://github.com/ButterClient/launcher-releases/releases/download/0.7.65/ButterClientLauncher-0.7.65-win-x64.exe"
+    sha512: "+eVhVD8N7YQNL4/va6/m7ejoIaTiMjVOS+9TYPYhVP8X89JRqq3s2Pa0Kve4X/fD2Wjxrgmdg56BDpJ+wlO0lA=="
+    size: 100439672
+path: "https://github.com/ButterClient/launcher-releases/releases/download/0.7.65/ButterClientLauncher-0.7.65-win-x64.exe"
+sha512: "+eVhVD8N7YQNL4/va6/m7ejoIaTiMjVOS+9TYPYhVP8X89JRqq3s2Pa0Kve4X/fD2Wjxrgmdg56BDpJ+wlO0lA=="
+releaseDate: "2026-08-13T18:35:06.240Z"
