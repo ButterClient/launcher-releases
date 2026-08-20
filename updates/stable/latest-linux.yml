@@ -1,8 +1,8 @@
-version: "0.7.73"
+version: "0.7.74"
 files:
-  - url: "https://github.com/ButterClient/launcher-releases/releases/download/0.7.73/ButterClientLauncher-0.7.73-linux-x86_64.AppImage"
-    sha512: "3VZOdc9NOfBAvzNe37IBzWrgNGKV4vYMiuwpU2UpCT6HDDW2FM8UbDpRO14yDtA5SHYVbBWwTe7in5XwOUKLQw=="
-    size: 129750565
-path: "https://github.com/ButterClient/launcher-releases/releases/download/0.7.73/ButterClientLauncher-0.7.73-linux-x86_64.AppImage"
-sha512: "3VZOdc9NOfBAvzNe37IBzWrgNGKV4vYMiuwpU2UpCT6HDDW2FM8UbDpRO14yDtA5SHYVbBWwTe7in5XwOUKLQw=="
-releaseDate: "2026-08-16T21:54:20.965Z"
+  - url: "https://github.com/ButterClient/launcher-releases/releases/download/0.7.74/ButterClientLauncher-0.7.74-linux-x86_64.AppImage"
+    sha512: "GFExz/WMPe7fMgKklm9QW5pud5LnF+lZbbnSqN2+1zeN0F2c4GxtDm+dqKO1D6rbFg0NOJUnkc6Npshv3xZ35g=="
+    size: 129758815
+path: "https://github.com/ButterClient/launcher-releases/releases/download/0.7.74/ButterClientLauncher-0.7.74-linux-x86_64.AppImage"
+sha512: "GFExz/WMPe7fMgKklm9QW5pud5LnF+lZbbnSqN2+1zeN0F2c4GxtDm+dqKO1D6rbFg0NOJUnkc6Npshv3xZ35g=="
+releaseDate: "2026-08-20T13:28:00.969Z"
